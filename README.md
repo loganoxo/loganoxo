@@ -5,7 +5,7 @@
 
 ![ID](https://img.shields.io/badge/🆔-logan-%23323031?style=flat&labelColor=323031)
 ![wechat](https://img.shields.io/badge/-loganovo-%23323031?style=flat&logo=wechat)
-[![博客](https://img.shields.io/badge/-博客-%23323031?style=flat&logo=discord)](https://discord.gg/WNGjFXB)
+[![博客](https://img.shields.io/badge/-博客-%23323031?style=flat&logo=discord)](https://www.wssw.fun/)
 <a href="#" target="_blank"><img width="80" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee"></a>\
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
