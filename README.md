@@ -1,5 +1,5 @@
 <p>
-  <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
+  <img src="a.gif" alt="Hi" width="42" />
   <b>{折腾 ⇌ 迷茫 ⇌ 思考]ing，在路上...</b>
 </p>
 
@@ -20,4 +20,11 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
 ![Sketch](https://img.shields.io/badge/-Sketch-%23FDAD00?style=flat&logo=sketch&logoColor=ffffff)
 
-<img alt="lencx stats" width="360" src="https://lencx-stats.vercel.app/api?username=loganoxo&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&include_all_commits=true">
+<div align="left">
+  <img src="https://lencx-stats.vercel.app/api?username=loganoxo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=loganoxo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+
+
+<div align="left">
+    <img src="https://raw.githubusercontent.com/loganoxo/loganoxo/output/snake.svg" alt="Snake animation" />
+</div>
