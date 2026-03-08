@@ -9,8 +9,12 @@ on:
       - master
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
